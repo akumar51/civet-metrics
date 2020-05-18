@@ -168,6 +168,6 @@
     </plugins>
 
 
-    <finalName>choudhury-rest</finalName>
+    <finalName>amit-rest</finalName>
   </build>
 </project>
